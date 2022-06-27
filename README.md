@@ -1,4 +1,4 @@
-# DCS-UPD-SET
+# DCS-UDP-SET
 
 This is a very simple UDP listener to emit LoSetCommand into DCS.  
 
