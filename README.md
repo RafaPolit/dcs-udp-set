@@ -15,3 +15,7 @@ dofile(lfs.writedir()..[[Scripts\DCS-UDP-SET\UDP-SET.lua]]);
 ```
 
 If you already have the file, just append the above line to the end of the file with a text editor like Notepad++.
+
+## Reference
+
+This code is mostly a copy-paste from the UDP listener Protocol and Protocol IO from [DCS-BIOS](https://github.com/DCSFlightpanels/dcs-bios).  All credit goes to them and the community for creating the socket listener and UDP parsing.  I merely replaced the actual command with a LoSetCommand instead of clickable items.
